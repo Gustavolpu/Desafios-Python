@@ -1,3 +1,4 @@
+# === Crie um algoritmo qu leia um número e mostre o seu dobro, triplo e raiz quadrada ==
 # Medir raiz quadrada e mesma coisa que cortar por meio numero**(1/2)
 
 n1 = int(input('Coloque um número: '))
